@@ -1,31 +1,21 @@
-h1{
-    color:darkred;
-    font-size: 100px;
-    text-align: left;
-    background-color: aqua;
-
-}
-h2{
-    color:lime;
-    font-size: 50px;
-    text-align: center;
-    background-color: darkorange;
-
-}
-img {
-  width: 100%;    
-  height: 300px;
-}
 body{
-    background-color: darkmagenta;
-
+    background-image: url(https://media.tenor.com/W1lSy3yOaisAAAAM/spinning-spin.gif);
+    width: auto;
 }
-footer{
-    color: azure;
-    background-color:black;
 
+h1{
+    color: brown;
+    background-color: aqua;
+    text-align: center;
 }
-a{
-    text-transform: uppercase;
-    color: rgb(252, 249, 249);
+
+h2{
+    color: gold;
+    background-color: brown;
+    text-align: center;
+    
+}
+
+h3{
+    background-color: aliceblue;
 }
